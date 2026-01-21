@@ -21,18 +21,16 @@ namespace OJTI2025
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text == "ojti@csharp.ro" && textBox2.Text == "Ojti2025")
-            {
-                this.Hide();
-                Exploratori exploratori = new Exploratori();
-                exploratori.Show();
-            }
-            else
+            if(textBox1.Text != "ojti@csharp.ro" || textBox2.Text != "Ojti2025")
             {
                 MessageBox.Show("Ceva nu a mers bine");
                 textBox1.Text = string.Empty;
-                textBox2.Text = string.Empty;   
+                textBox2.Text = string.Empty;
+                return;
             }
+            this.Hide();
+            Exploratori exploratori = new Exploratori();
+            exploratori.Show();
         }
     }
 }

@@ -26,7 +26,7 @@ namespace OJTI2025
         string descriere;
         private Bitmap hartaCurenta;
         private Bitmap hartaCurentaCopie;
-
+        private string path = System.AppDomain.CurrentDomain.BaseDirectory;
         Random rnd = new Random();
         private List<int> inOrdine = new List<int>();
         private PictureBox ultimaInsulaPic;
@@ -73,39 +73,32 @@ namespace OJTI2025
 
         private void distantaInsule(string ultimaInsula, int actuala)
         {
-            string path = System.AppDomain.CurrentDomain.BaseDirectory + "/distante.txt";
-            StreamReader sr = new StreamReader(path);
+            StreamReader sr = new StreamReader(path + "/distante.txt");
             string linie;
-            char[] sep = {'#'};
             while((linie = sr.ReadLine()) != null)
             {
-                string[] l = linie.Split(sep);
+                string[] l = linie.Split('#');
                 if (l[0] == ultimaInsula)
                 {
                     distanta = Int32.Parse(l[actuala]);
-                 
                 }
             }
         }
 
         private void descriereInsula(int actuala)
         {
-            string path = System.AppDomain.CurrentDomain.BaseDirectory + "/insule.txt";
-            StreamReader sr = new StreamReader(path);
+            StreamReader sr = new StreamReader(path + "/insule.txt");
             string linie;
-            char[] sep = { '#' };
             while ((linie = sr.ReadLine()) != null)
             {
-                string[] l = linie.Split(sep);
-                int m;
-                if(int.TryParse(l[0], out m))
+                string[] l = linie.Split('#');
+                if(int.TryParse(l[0], out int m))
                 {
                     if (m == actuala)
                     {
                         descriere = l[6];
                     }
-                }
-                
+                }                
             }
         }
 

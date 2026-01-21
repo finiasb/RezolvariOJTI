@@ -19,26 +19,21 @@ namespace OJTI2025
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int exploratori;
-            if(int.TryParse(textBox1.Text, out exploratori))
-            {
-                if (exploratori >= 30 && exploratori <= 200)
-                {
-                    this.Hide();
-                    Expeditie expeditie = new Expeditie(exploratori);
-                    expeditie.Show();
-                }
-                else
-                {
-                    MessageBox.Show("Exploratorii trebyuie sa fie din intervalul [30, 200]");
-                    textBox1.Text = string.Empty;
-                }
-            }
-            else
+            if(!int.TryParse(textBox1.Text, out int exploratori))
             {
                 MessageBox.Show("Nu ati introdus un numar");
                 textBox1.Text = string.Empty;
+                return;
             }
+            if (exploratori < 30 && exploratori > 200)
+            {
+                MessageBox.Show("Exploratorii trebuie sa fie din intervalul [30, 200]");
+                textBox1.Text = string.Empty;
+                return;
+            }
+            this.Hide();
+            Expeditie expeditie = new Expeditie(exploratori);
+            expeditie.Show();
         }
     }
 }
