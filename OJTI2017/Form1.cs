@@ -242,6 +242,12 @@ namespace OJTI2017
             }
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Vizualizare viz = new Vizualizare();
+            viz.Show();
+            this.Hide();    
+        }
     }
 }
 
