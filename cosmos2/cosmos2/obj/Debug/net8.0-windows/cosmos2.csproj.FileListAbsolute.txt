@@ -1,0 +1,64 @@
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.AlegeOptiunea.resources
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.Form1.resources
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.Revolutie.resources
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.SpaceWar.resources
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.Properties.Resources.resources
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.exe
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\Resources\navaUp.png
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.deps.json
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.runtimeconfig.json
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.pdb
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.CopyComplete
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\refint\cosmos2.dll
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.pdb
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\cosmos2\cosmos2\obj\Debug\net8.0-windows\ref\cosmos2.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\Resources\navaUp.png
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.deps.json
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.runtimeconfig.json
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\cosmos2.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.AlegeOptiunea.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.Revolutie.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.SpaceWar.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.csproj.CopyComplete
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\refint\cosmos2.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\cosmos2.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\cosmos2\cosmos2\obj\Debug\net8.0-windows\ref\cosmos2.dll

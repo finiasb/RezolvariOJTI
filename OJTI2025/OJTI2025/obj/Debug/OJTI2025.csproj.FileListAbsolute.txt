@@ -1,0 +1,13 @@
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\bin\Debug\OJTI2025.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\bin\Debug\OJTI2025.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\bin\Debug\OJTI2025.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.Exploratori.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.Expeditie.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2025\OJTI2025\obj\Debug\OJTI2025.Salvare.resources

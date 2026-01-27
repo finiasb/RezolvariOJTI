@@ -1,0 +1,26 @@
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\bin\Debug\OJTI_2019_C#.exe.config
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\bin\Debug\OJTI_2019_C#.exe
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\bin\Debug\OJTI_2019_C#.pdb
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Autentificare.resources
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Form1.resources
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Logare.resources
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Meniu.resources
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Properties.Resources.resources
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.exe
+C:\Users\Fineas\source\repos\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\bin\Debug\OJTI_2019_C#.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\bin\Debug\OJTI_2019_C#.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\bin\Debug\OJTI_2019_C#.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Autentificare.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Logare.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Meniu.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C_.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI_2019_C#\OJTI_2019_C#\obj\Debug\OJTI_2019_C#.pdb

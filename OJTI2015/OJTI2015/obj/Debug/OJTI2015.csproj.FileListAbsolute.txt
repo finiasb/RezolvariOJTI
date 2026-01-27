@@ -1,0 +1,15 @@
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\bin\Debug\OJTI2015.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\bin\Debug\OJTI2015.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\bin\Debug\OJTI2015.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.MdiForm.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.ListaCroaziera.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.ListeCroaziere.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.formTuristi.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\obj\Debug\OJTI2015.Harta.resources

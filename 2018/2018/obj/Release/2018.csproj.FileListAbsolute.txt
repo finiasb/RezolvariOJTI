@@ -1,0 +1,11 @@
+C:\Users\Fineas\source\repos\2018\2018\bin\Release\user.bmp
+C:\Users\Fineas\source\repos\2018\2018\bin\Release\2018.exe.config
+C:\Users\Fineas\source\repos\2018\2018\bin\Release\2018.exe
+C:\Users\Fineas\source\repos\2018\2018\bin\Release\2018.pdb
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\2018.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\_2018.Form1.resources
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\_2018.Properties.Resources.resources
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\2018.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\2018.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\2018.exe
+C:\Users\Fineas\source\repos\2018\2018\obj\Release\2018.pdb

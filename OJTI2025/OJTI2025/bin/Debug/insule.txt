@@ -1,0 +1,15 @@
+﻿Id#Insula#x#y#Bogatii#Virusi#Descriere
+
+1#Cadiz#830#120#0#0#Punctul de start
+2#Madeira#730#220#0#0#Madeira este un arhipelag portughez din Atlanticul de Nord. Flota a facut o escala pentru aprovizionare
+3#Canare#717#303#0#0#Insulele Canare sunt un arhipelag format din opt insule de origine vulcanica din Oceanul Atlantic. Flota a facut o escala pentru aprovizionare.
+4#Capul Verde#621#507#0#0#Un arhipelag aflat in largul tarmului vestic al Africii. Aici Columb a decis sa se desparta de trei dintre nave, trimitandu-le direct catre Hispaniola, in timp ce el a continuat spre sud-vest cu celelalte trei. Flota a facut o escala pentru aprovizionare.
+5#Trinidad#350#452#1#0#La 31 iulie 1498, a zarit aceasta insula, numita astfel datorita celor trei varfuri montane vizibile. Flota s-a aprovizionat.
+6#Margarita#280#442#1#0#Aceasta insula este remarcata pentru abundenta perlelor! Flota s-a aprovizionat.
+7#Hispaniola#254#288#0#0#Locul primei colonii europene in Lumea Noua, unde Columb a construit asezarea 'La Navidad'.
+8#Bermude#303#110#0#1#Insulele Bermude sunt un arhipelag situat in Oceanul Atlantic. Nu a facut parte din traseul lui Columb.
+9#Azore#494#32#0#1#Insulele Azore sunt un grup de insule portugheze situate in mijlocul Oceanului Atlantic. Nu a facut parte din traseul lui Columb.
+10#Martinica#413#315#0#1#Martinica este o insula in partea estica a Caraibelor. Nu a facut parte din traseul lui Columb.
+11#Guadelupa#559#343#0#1#Guadelupa este un arhipelag in partea estica a Caraibelor. Nu a facut parte din traseul lui Columb.
+
+

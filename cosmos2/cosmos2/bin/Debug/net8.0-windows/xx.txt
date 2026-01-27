@@ -1,0 +1,64 @@
+Data: 22.01.2024
+Distanta:   14717668431  Km
+Anotimpul: Iarnă
+
+Data: 12.03.2024
+Distanta:   14859510980  Km
+Anotimpul: Iarnă
+
+Data: 19.04.2024
+Distanta:   15021829797  Km
+Anotimpul: Primăvară
+
+Data:      20.02.2024
+Distanta:  14783956936  Km
+Anotimpul: Iarnă
+
+Data:      21.03.2024
+Distanta:  14896510569  Km
+Anotimpul: Primăvară
+
+Data:      02.06.2024
+Distanta:  15174690030 Km
+Anotimpul: Primăvară
+
+Data:      22.03.2024
+Distanta:  6572374326 Km
+Anotimpul: Primăvară
+
+Data:      12.02.2024
+Distanta:  14760619551 Km
+Anotimpul: Iarnă
+
+Data:      24.03.2024
+Distanta:  14909236880 Km
+Anotimpul: Primăvară
+
+Data:      30.04.2024
+Distanta:  15067225887 Km
+Anotimpul: Primăvară
+
+Data:      23.06.2024
+Distanta:  15208627291 Km
+Anotimpul: Vară
+
+Data:      14.07.2024
+Distanta:  15209436578 Km
+Anotimpul: Vară
+
+Data:      17.05.2024
+Distanța:  15129385650 Km
+Anotimpul: Primăvară
+
+Data:            31.10.2024
+Distanța:    14839951597 Km
+Anotimpul: Toamnă
+
+Data:            06.11.2024
+Distanța:    14817663512 Km
+Anotimpul: Toamnă
+
+Data:            27.05.2024
+Distanța:    15156716435 Km
+Anotimpul: Primăvară
+

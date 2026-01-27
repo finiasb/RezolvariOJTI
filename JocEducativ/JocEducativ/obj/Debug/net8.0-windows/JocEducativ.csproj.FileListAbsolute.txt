@@ -1,0 +1,56 @@
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.exe
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.deps.json
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.runtimeconfig.json
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.pdb
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.AlegeJoc.resources
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.Form1.resources
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.Guess.resources
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.Întrebare.resources
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.SarpeEducativ.resources
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.CopyComplete
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\refint\JocEducativ.dll
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.pdb
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\ref\JocEducativ.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.deps.json
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.runtimeconfig.json
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\JocEducativ.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.AlegeJoc.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.Guess.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.Întrebare.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.SarpeEducativ.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.csproj.CopyComplete
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\refint\JocEducativ.dll
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\JocEducativ.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\JocEducativ\JocEducativ\obj\Debug\net8.0-windows\ref\JocEducativ.dll

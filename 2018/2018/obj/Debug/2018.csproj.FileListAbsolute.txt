@@ -1,0 +1,39 @@
+C:\Users\Fineas\source\repos\2018\2018\bin\Debug\2018.exe.config
+C:\Users\Fineas\source\repos\2018\2018\bin\Debug\2018.exe
+C:\Users\Fineas\source\repos\2018\2018\bin\Debug\2018.pdb
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\2018.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\_2018.Form1.resources
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\_2018.Properties.Resources.resources
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\2018.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\2018.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\2018.exe
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\2018.pdb
+C:\Users\Fineas\source\repos\2018\2018\bin\Debug\user.bmp
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\_2018.eLearning1918_Elev.resources
+C:\Users\Fineas\source\repos\2018\2018\obj\Debug\_2018.FormRaport.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\bin\Debug\user.bmp
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\bin\Debug\2018.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\bin\Debug\2018.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\bin\Debug\2018.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\2018.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\_2018.eLearning1918_Elev.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\_2018.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\_2018.FormRaport.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\_2018.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\2018.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\2018.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\2018.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\2018\2018\obj\Debug\2018.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\bin\Debug\user.bmp
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\bin\Debug\2018.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\bin\Debug\2018.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\bin\Debug\2018.pdb
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\2018.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\_2018.eLearning1918_Elev.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\_2018.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\_2018.FormRaport.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\_2018.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\2018.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\2018.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\2018.exe
+C:\Users\Fineas\source\repos\SUBIECTE OJTI\RezolvariOJTI\2018\2018\obj\Debug\2018.pdb
