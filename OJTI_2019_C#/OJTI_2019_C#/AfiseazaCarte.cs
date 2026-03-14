@@ -12,7 +12,7 @@ namespace OJTI_2019_C_
 {
     public partial class AfiseazaCarte : Form
     {
-        private string constr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Fineas\source\repos\OJTI_2019\OJTI_2019\bin\Debug\FreeBook.mdf;Integrated Security=True;Connect Timeout=30";
+        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"|DataDirectory|\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
         private int _idCarte;
         private string _titlu;
         public AfiseazaCarte(string titlu)

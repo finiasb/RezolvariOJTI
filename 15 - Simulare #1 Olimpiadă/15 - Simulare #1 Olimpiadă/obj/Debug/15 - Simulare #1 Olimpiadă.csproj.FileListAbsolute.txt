@@ -1,0 +1,42 @@
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.exe.config
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.exe
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.pdb
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Properties.Resources.resources
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.exe
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.pdb
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Form1.resources
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.EnterNumbers.resources
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.CatchTheNumbers.resources
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Rascumparare.resources
+C:\Users\Fineas\source\repos\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.CollectTheNumbers.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.exe.config
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.exe
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.pdb
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.AssemblyReference.cache
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.CatchTheNumbers.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.CollectTheNumbers.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.EnterNumbers.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Form1.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Properties.Resources.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Rascumparare.resources
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.GenerateResource.cache
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.exe
+C:\Users\Elev\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.pdb
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.AssemblyReference.cache
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.CatchTheNumbers.resources
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.CollectTheNumbers.resources
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.EnterNumbers.resources
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Form1.resources
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Properties.Resources.resources
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\_15___Simulare__1_Olimpiadă.Rascumparare.resources
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.GenerateResource.cache
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.exe
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\obj\Debug\15 - Simulare #1 Olimpiadă.pdb
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.exe.config
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.exe
+C:\Users\Fineas\OneDrive\Desktop\15 - Simulare #1 Olimpiadă\15 - Simulare #1 Olimpiadă\bin\Debug\15 - Simulare #1 Olimpiadă.pdb

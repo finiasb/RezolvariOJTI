@@ -19,16 +19,6 @@ namespace cosmos2
         [System.Runtime.InteropServices.DllImport("user32.dll")]
         private static extern short GetAsyncKeyState(int vKey);
 
-        private IWavePlayer waveOutDevice;
-        private AudioFileReader audioFileReader;
-        private IWavePlayer waveOutDevice1;
-        private AudioFileReader audioFileReader1;
-        private IWavePlayer waveOutDevice2;
-        private AudioFileReader audioFileReader2;
-        private IWavePlayer waveOutDevice3;
-        private AudioFileReader audioFileReader3;
-        private IWavePlayer waveOutDevice4;
-        private AudioFileReader audioFileReader4;
 
         private System.Windows.Forms.Timer timerMesaj;
         private System.Windows.Forms.Timer timerMiscare;
@@ -129,7 +119,6 @@ namespace cosmos2
             }
             else if (IsKeyPressed(Keys.Space))
             {
-                PlayFire();
                 picNava.Image = Image.FromFile("NavaFire.png");
                 PictureBox picRachetaNava = new PictureBox();
                 picRachetaNava.Image = Image.FromFile("rachetaNava.png");
@@ -199,7 +188,6 @@ namespace cosmos2
 
                 if (rectI.IntersectsWith(rectR))
                 {
-                    PlayBonus();
                     panel1.Controls.Remove(viataPic);
                     viata.RemoveAt(i);
                     vieti++;
@@ -214,7 +202,6 @@ namespace cosmos2
 
                 if (rectI.IntersectsWith(rectR))
                 {
-                    PlayExplozie();
                     panel1.Controls.Remove(inamic);
                     inamici.RemoveAt(i);
                     vieti--;
@@ -235,7 +222,6 @@ namespace cosmos2
 
                     if (rectR.IntersectsWith(rectI))
                     {
-                        PlayDistrugere();
                         panel1.Controls.Remove(inamic);
                         inamici.RemoveAt(j);
                         panel1.Controls.Remove(racheta);
@@ -291,92 +277,13 @@ namespace cosmos2
             timerMesaj.Start();
         }
 
-        public void PlaySound()
-        {
-            if (waveOutDevice != null)
-            {
-                waveOutDevice.Stop();
-                waveOutDevice.Dispose();
-                waveOutDevice = null;
-            }
-
-            waveOutDevice = new WaveOut();
-            audioFileReader = new AudioFileReader("sunetFundal.mp3");
-            waveOutDevice.Init(audioFileReader);
-            waveOutDevice.Play();
-        }
-        public void StopSound()
-        {
-            if (waveOutDevice != null)
-            {
-                waveOutDevice.Stop();
-                waveOutDevice.Dispose();
-                waveOutDevice = null;
-            }
-        }
-        public void PlayFire()
-        {
-            if (waveOutDevice1 != null)
-            {
-                waveOutDevice1.Stop();
-                waveOutDevice1.Dispose();
-                waveOutDevice1 = null;
-            }
-
-            waveOutDevice1 = new WaveOut();
-            audioFileReader1 = new AudioFileReader("sunetFire.mp3");
-            waveOutDevice1.Init(audioFileReader1);
-            waveOutDevice1.Play();
-        }
-        public void PlayBonus()
-        {
-            if (waveOutDevice2 != null)
-            {
-                waveOutDevice2.Stop();
-                waveOutDevice2.Dispose();
-                waveOutDevice2 = null;
-            }
-
-            waveOutDevice2 = new WaveOut();
-            audioFileReader2 = new AudioFileReader("sunetBonus.mp3");
-            waveOutDevice2.Init(audioFileReader2);
-            waveOutDevice2.Play();
-        }
-        public void PlayDistrugere()
-        {
-            if (waveOutDevice3 != null)
-            {
-                waveOutDevice3.Stop();
-                waveOutDevice3.Dispose();
-                waveOutDevice3 = null;
-            }
-
-            waveOutDevice3 = new WaveOut();
-            audioFileReader3 = new AudioFileReader("sunetDistrugere.mp3");
-            waveOutDevice3.Init(audioFileReader3);
-            waveOutDevice3.Play();
-        }
-        public void PlayExplozie()
-        {
-            if (waveOutDevice4 != null)
-            {
-                waveOutDevice4.Stop();
-                waveOutDevice4.Dispose();
-                waveOutDevice4 = null;
-            }
-
-            waveOutDevice4 = new WaveOut();
-            audioFileReader4 = new AudioFileReader("sunetExplozie.mp3");
-            waveOutDevice4.Init(audioFileReader4);
-            waveOutDevice4.Play();
-        }
+        
         private bool IsKeyPressed(Keys key)
         {
             return GetAsyncKeyState((int)key) != 0;
         }
         private void START()
         {
-            PlaySound();
             timerMiscare.Start();
             timerInamici.Start();
             timerAsteroizi.Start();
@@ -389,7 +296,6 @@ namespace cosmos2
             timerInamici.Stop();
             timerAsteroizi.Stop();
             timerViata.Stop();
-            StopSound();
         }
         private void CurataObiecte()
         {
@@ -417,7 +323,6 @@ namespace cosmos2
         {
             if (!timerMiscare.Enabled)
             {
-                StopSound();
                 START();
                 MesajJoc.Visible = false;
             }

@@ -9,7 +9,7 @@
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            if (textBox1.Text == "oji@csharp.ro" && textBox2.Text == "Ojti2024")
+            if (textBox1.Text == "ojti@csharp.ro" && textBox2.Text == "Ojti2024")
             {
                 this.Hide();
                 AlegeOptiunea alege = new AlegeOptiunea();

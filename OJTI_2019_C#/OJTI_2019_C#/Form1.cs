@@ -15,7 +15,7 @@ namespace OJTI_2019_C_
 {
     public partial class Form1 : Form
     {
-        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\Fineas\\source\\repos\\SUBIECTE OJTI\\OJTI_2019_C#\\OJTI_2019_C#\\bin\\Debug\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
+        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"|DataDirectory|\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
         private static bool initializat = false;
 
         public Form1()
@@ -97,8 +97,6 @@ namespace OJTI_2019_C_
             }
             sr.Close();
             con.Close();
-
-
         }
 
         private void button1_Click(object sender, EventArgs e)

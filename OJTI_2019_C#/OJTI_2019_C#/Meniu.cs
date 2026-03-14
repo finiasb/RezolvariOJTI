@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Reflection.Emit;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -16,7 +17,7 @@ namespace OJTI_2019_C_
 {
     public partial class Meniu : Form
     {
-        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\Fineas\\source\\repos\\SUBIECTE OJTI\\OJTI_2019_C#\\OJTI_2019_C#\\bin\\Debug\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
+        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"|DataDirectory|\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
         private string _email;
         private List<int> idCarti = new List<int>();
         private List<int> idCartiImprumutate = new List<int>();
@@ -35,6 +36,8 @@ namespace OJTI_2019_C_
             inserare();
             inserare2();
             IncarcaAni();
+            chart();
+            incarcareChart2();
         }
         private void inserare()
         {
@@ -212,8 +215,63 @@ namespace OJTI_2019_C_
                 return (int)cmd.ExecuteScalar();
             }
         }
+        string nume;
+        private void getNameById(int id)
+        {
+            using (SqlConnection con = new SqlConnection(constr))
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand("Select titlu from carti where id_carte = @id", con);
+                cmd.Parameters.AddWithValue("@id", id);
+                SqlDataReader rdr = cmd.ExecuteReader();
+                if (rdr.Read())
+                {
+                    nume = rdr[0].ToString();
+                }
 
-        private void button1_Click(object sender, EventArgs e)
+            }
+
+        }
+        private void incarcareChart2()
+        {
+            chart2.Series.Clear();
+            chart2.Titles.Clear();
+            chart2.Titles.Add("Carti populare");
+
+            Series series = new Series
+            {
+                Name = "Carti",
+                ChartType = SeriesChartType.Pie
+            };
+            chart2.Series.Add(series);
+
+            using (SqlConnection con = new SqlConnection(constr))
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand(
+                    "SELECT TOP 4 id_carte, COUNT(*) AS nraparitii FROM imprumut GROUP BY id_carte ORDER BY COUNT(*) DESC", con);
+
+                SqlDataReader rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    int idCarte = rdr.GetInt32(0);       // id_carte
+                    int numarAparitii = rdr.GetInt32(1); // nraparitii
+
+                    getNameById(idCarte);  // Obținem numele cărții
+                    series.Points.AddXY(nume, numarAparitii);
+                }
+            }
+
+            series.IsValueShownAsLabel = true;
+
+            series.LabelForeColor = System.Drawing.Color.Black;
+        }
+
+        private void tabPage4_Click(object sender, EventArgs e)
+        {
+            inserare2();
+        }
+        private void chart()
         {
             if (comboBox1.SelectedItem == null)
             {
@@ -265,12 +323,10 @@ namespace OJTI_2019_C_
             chart1.ChartAreas[0].AxisX.Title = "Lunile anului";
             chart1.ChartAreas[0].AxisY.Title = "Număr utilizatori";
             chart1.ChartAreas[0].RecalculateAxesScale();
-    }
-
-        private void tabPage4_Click(object sender, EventArgs e)
+        }
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
-            inserare2();
+            chart();
         }
 
         private void IncarcaAni()
@@ -291,8 +347,5 @@ namespace OJTI_2019_C_
 
             reader.Close();
         }
-
-
-
     }
 }

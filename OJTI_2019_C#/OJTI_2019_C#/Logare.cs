@@ -14,7 +14,7 @@ namespace OJTI_2019_C_
 {
     public partial class Logare : Form
     {
-        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\Fineas\\source\\repos\\SUBIECTE OJTI\\OJTI_2019_C#\\OJTI_2019_C#\\bin\\Debug\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
+        private string constr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"|DataDirectory|\\FreeBook.mdf\";Integrated Security=True;Connect Timeout=30";
 
         public Logare()
         {
@@ -23,23 +23,27 @@ namespace OJTI_2019_C_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection con = new SqlConnection(constr);
-            con.Open();
-            SqlCommand cmd = new SqlCommand("select email, parola from utilizatori", con);
-            SqlDataReader reader = cmd.ExecuteReader();
-            while (reader.Read())
+            using (SqlConnection con = new SqlConnection(constr))
             {
-                string email = reader["email"].ToString();
-                string parola = reader["parola"].ToString();
+                con.Open();
+                SqlCommand cmd = new SqlCommand("select count(*) from utilizatori where email=@email and parola=@parola", con);
+                cmd.Parameters.AddWithValue("@email", textBox1.Text);
+                cmd.Parameters.AddWithValue("@parola", textBox2.Text);
 
-                if (textBox1.Text == email && textBox2.Text == parola && !string.IsNullOrEmpty(textBox1.Text) && !string.IsNullOrEmpty(textBox2.Text))
+                int count = (int)cmd.ExecuteScalar();
+                if (count > 0)
                 {
                     MessageBox.Show("V-ati logat cu succes");
                     this.Hide();
                     Meniu meniu = new Meniu(textBox1.Text);
                     meniu.Show();
                 }
-
+                else
+                {
+                    MessageBox.Show("Nu ati introdus datele corecte");
+                    textBox1.Text = string.Empty;
+                    textBox2.Text = string.Empty;
+                }
             }
         }
 

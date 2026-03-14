@@ -22,7 +22,7 @@ namespace OJTI2017
 
         private void incarcaredgv()
         {
-            for(int i = 1; i <= 13; i++)
+            for (int i = 1; i <= 13; i++)
             {
                 using (SqlConnection con = new SqlConnection(constr))
                 {
@@ -32,7 +32,7 @@ namespace OJTI2017
                     cmd.Parameters.AddWithValue("@id2", i);
 
                     SqlDataReader reader = cmd.ExecuteReader();
-                    while(reader.Read())
+                    while (reader.Read())
                     {
 
                         dataGridView1.Rows.Add(reader[0].ToString(), reader[1].ToString().Split(' ')[0], reader[2].ToString().Split(' ')[0], reader[3].ToString(), reader[4].ToString()); ;
@@ -44,6 +44,7 @@ namespace OJTI2017
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView2.Rows.Clear();
+            dataGridView3.Rows.Clear();
             for (int i = 1; i <= 13; i++)
             {
                 using (SqlConnection con = new SqlConnection(constr))
@@ -78,7 +79,7 @@ namespace OJTI2017
                         }
                         else if (reader[3].ToString() == "lunar")
                         {
-                            for(int j = 1; j <= 12; j++)
+                            for (int j = 1; j <= 12; j++)
                             {
                                 DateTime dateTime = new DateTime(2026, j, 1).AddDays(Int32.Parse(reader[4].ToString()) - 1);
                                 if (dateTimePicker1.Value <= dateTime && dateTimePicker2.Value >= dateTime)
@@ -90,6 +91,50 @@ namespace OJTI2017
                     }
                 }
             }
+            dataGridView3.Rows.Clear();
+
+            for (int i = 1; i <= 13; i++)
+            {
+                using (SqlConnection con = new SqlConnection(constr))
+                {
+                    con.Open();
+                    SqlCommand cmd = new SqlCommand("Select Localitati.Nume, Planificari.DataStart, Planificari.DataStop, Planificari.Frecventa, Planificari.Ziua FROM Localitati INNER JOIN Planificari ON Localitati.IDLocalitate = Planificari.IDLocalitate WHERE Localitati.IDLocalitate = @id", con);
+                    cmd.Parameters.AddWithValue("@id", i);
+
+                    SqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        string localitate = reader.GetString(0);
+                       
+
+                        if (!string.IsNullOrEmpty(reader[1].ToString()) || !string.IsNullOrEmpty(reader[2].ToString()))
+                        {
+                            DateTime planStart = (DateTime)reader[1];
+                            DateTime planStop = (DateTime)reader[2];
+
+                            DateTime excursieStart = dateTimePicker1.Value.Date;
+                            DateTime excursieStop = dateTimePicker2.Value.Date;
+
+                            // intersecția perioadelor
+                            DateTime startFinal = planStart > excursieStart ? planStart : excursieStart;
+                            DateTime stopFinal = planStop < excursieStop ? planStop : excursieStop;
+
+                            // dacă NU se intersectează, sari peste
+                            if (startFinal > stopFinal)
+                                continue;
+
+                            DateTime curent = startFinal;
+                            while (curent <= stopFinal)
+                            {
+                                dataGridView3.Rows.Add(localitate, curent.ToString("dd.MM.yyyy"));
+                                curent = curent.AddDays(1);
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
+
 }

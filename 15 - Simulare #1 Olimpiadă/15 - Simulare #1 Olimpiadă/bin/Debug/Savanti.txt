@@ -1,0 +1,7 @@
+01.JPG;Grigore Moisil
+02.JPG;Alan Turing
+03.JPG;Leonhard Euler
+04.JPG;Euclid
+05.JPG;Carl Friedrich Gauss
+06.JPG;William Rowan Hamilton
+07.JPG;Gheorghe Titeica
