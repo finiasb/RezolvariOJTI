@@ -18,7 +18,7 @@ namespace OJTI2015
         private int[,] distantePorturi;
 
         bool RclickPutem = false;
-        private string constr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Fineas\source\repos\SUBIECTE OJTI\OJTI2015\OJTI2015\bin\Debug\DBTimpSpatiu2.mdf"";Integrated Security=True;Connect Timeout=30";
+        private string constr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""|DataDirectory|\DBTimpSpatiu2.mdf"";Integrated Security=True;Connect Timeout=30";
         bool oMers = false;
         public List<string> numePorturi = new List<string> { "Constanta", "Varna", "Burgas", "Istambul", "Kozlu", "Samsun", "Batumi", "Sokhumi", "Soci", "Anapa", "Yalta", "Sevastopol", "Odessa", };
         private List<int> portX = new List<int>();

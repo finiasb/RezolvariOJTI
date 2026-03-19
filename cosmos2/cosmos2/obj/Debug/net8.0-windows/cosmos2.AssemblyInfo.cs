@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cosmos2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c2fb2a631a6068ca92da529da12c9bcbe3c967")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("cosmos2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cosmos2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

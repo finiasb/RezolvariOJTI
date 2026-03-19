@@ -1,0 +1,12 @@
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\bin\Debug\OJTI2014.exe.config
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\bin\Debug\OJTI2014.exe
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\bin\Debug\OJTI2014.pdb
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.ActiunileMele.resources
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.Form1.resources
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.Properties.Resources.resources
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.exe
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.pdb
+C:\Users\Fineas\source\repos\OJTI2014\OJTI2014\obj\Debug\OJTI2014.Grafic.resources
