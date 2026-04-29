@@ -1,0 +1,9 @@
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\bin\Debug\ONTI2018.exe.config
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\bin\Debug\ONTI2018.exe
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\bin\Debug\ONTI2018.pdb
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\obj\Debug\ONTI2018.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\obj\Debug\ONTI2018.Properties.Resources.resources
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\obj\Debug\ONTI2018.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\obj\Debug\ONTI2018.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\obj\Debug\ONTI2018.exe
+C:\Users\Fineas\source\repos\ONTI2018\ONTI2018\obj\Debug\ONTI2018.pdb

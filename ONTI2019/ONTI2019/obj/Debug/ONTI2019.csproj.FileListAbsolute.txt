@@ -1,0 +1,10 @@
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\bin\Debug\ONTI2019.exe.config
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\bin\Debug\ONTI2019.exe
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\bin\Debug\ONTI2019.pdb
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.Form1.resources
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.Properties.Resources.resources
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.exe
+C:\Users\Elev\source\repos\ONTI2019\ONTI2019\obj\Debug\ONTI2019.pdb

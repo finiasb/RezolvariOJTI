@@ -1,0 +1,54 @@
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.pdb
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmVacanta.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.exe
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.pdb
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmInregistrare.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.pdb
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Detalii.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmInregistrare.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmVacanta.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.exe
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.pdb
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe.config
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.pdb
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.AssemblyReference.cache
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Detalii.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Form1.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmInregistrare.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmVacanta.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Properties.Resources.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.GenerateResource.cache
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.exe
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.pdb
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.AdaugareAdmin.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe.config
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.exe
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\bin\Debug\ONTI_2017.pdb
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.AssemblyReference.cache
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.AdaugareAdmin.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Detalii.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Form1.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmInregistrare.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.FrmVacanta.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.Properties.Resources.resources
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.GenerateResource.cache
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.exe
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.pdb
+C:\Users\Fineas\OneDrive\Desktop\ONTI_2017\ONTI_2017\obj\Debug\ONTI_2017.VacanteleMele.resources
