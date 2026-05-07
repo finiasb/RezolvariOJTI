@@ -518,11 +518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\SUBIECTE OJTI\\RezolvariOJTI\\cosmos2\\cosmos2\\cosmos2.csproj",
+      "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\SUBIECTE C#\\RezolvariOJTI\\cosmos2\\cosmos2\\cosmos2.csproj",
       "projectName": "cosmos2",
-      "projectPath": "C:\\Users\\Fineas\\source\\repos\\SUBIECTE OJTI\\RezolvariOJTI\\cosmos2\\cosmos2\\cosmos2.csproj",
+      "projectPath": "C:\\Users\\Fineas\\source\\repos\\SUBIECTE C#\\RezolvariOJTI\\cosmos2\\cosmos2\\cosmos2.csproj",
       "packagesPath": "C:\\Users\\Fineas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fineas\\source\\repos\\SUBIECTE OJTI\\RezolvariOJTI\\cosmos2\\cosmos2\\obj\\",
+      "outputPath": "C:\\Users\\Fineas\\source\\repos\\SUBIECTE C#\\RezolvariOJTI\\cosmos2\\cosmos2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -537,7 +537,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\Fineas\\source\\repos\\Nationala2025\\Nationala2025\\bin\\Debug\\packages": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
