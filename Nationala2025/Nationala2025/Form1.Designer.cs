@@ -28,23 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.txtEmailAdmin = new System.Windows.Forms.TextBox();
+            this.txtParolaAdmin = new System.Windows.Forms.TextBox();
+            this.btnGestioneaza = new System.Windows.Forms.Button();
+            this.btnIntra = new System.Windows.Forms.Button();
+            this.btnStartCamera = new System.Windows.Forms.Button();
+            this.btnDetecteaza = new System.Windows.Forms.Button();
+            this.btnSalvare = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.pbCamera = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.txtNumeControlor = new System.Windows.Forms.TextBox();
+            this.pbCaptura = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.lblUtilizator = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbCamera)).BeginInit();
             this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbCaptura)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -81,134 +87,148 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Parola administrator";
             // 
-            // textBox1
+            // txtEmailAdmin
             // 
-            this.textBox1.Location = new System.Drawing.Point(280, 80);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(208, 22);
-            this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "onti@csharp.ro";
+            this.txtEmailAdmin.Location = new System.Drawing.Point(280, 80);
+            this.txtEmailAdmin.Margin = new System.Windows.Forms.Padding(4);
+            this.txtEmailAdmin.Name = "txtEmailAdmin";
+            this.txtEmailAdmin.Size = new System.Drawing.Size(208, 22);
+            this.txtEmailAdmin.TabIndex = 3;
+            this.txtEmailAdmin.Text = "onti@csharp.ro";
             // 
-            // textBox2
+            // txtParolaAdmin
             // 
-            this.textBox2.Location = new System.Drawing.Point(280, 129);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(208, 22);
-            this.textBox2.TabIndex = 4;
-            this.textBox2.Text = "ONTI2025";
-            this.textBox2.UseSystemPasswordChar = true;
+            this.txtParolaAdmin.Location = new System.Drawing.Point(280, 129);
+            this.txtParolaAdmin.Margin = new System.Windows.Forms.Padding(4);
+            this.txtParolaAdmin.Name = "txtParolaAdmin";
+            this.txtParolaAdmin.Size = new System.Drawing.Size(208, 22);
+            this.txtParolaAdmin.TabIndex = 4;
+            this.txtParolaAdmin.Text = "ONTI2025";
+            this.txtParolaAdmin.UseSystemPasswordChar = true;
             // 
-            // button1
+            // btnGestioneaza
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(561, 74);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(240, 80);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Gestioneza controlori";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnGestioneaza.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnGestioneaza.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGestioneaza.Location = new System.Drawing.Point(561, 74);
+            this.btnGestioneaza.Margin = new System.Windows.Forms.Padding(4);
+            this.btnGestioneaza.Name = "btnGestioneaza";
+            this.btnGestioneaza.Size = new System.Drawing.Size(240, 80);
+            this.btnGestioneaza.TabIndex = 5;
+            this.btnGestioneaza.Text = "Gestioneza controlori";
+            this.btnGestioneaza.UseVisualStyleBackColor = false;
+            this.btnGestioneaza.Click += new System.EventHandler(this.btnGestioneaza_Click);
             // 
-            // button2
+            // btnIntra
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button2.Enabled = false;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(897, 74);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(240, 80);
-            this.button2.TabIndex = 6;
-            this.button2.Text = "Intra in aplicatie";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnIntra.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnIntra.Enabled = false;
+            this.btnIntra.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIntra.Location = new System.Drawing.Point(897, 74);
+            this.btnIntra.Margin = new System.Windows.Forms.Padding(4);
+            this.btnIntra.Name = "btnIntra";
+            this.btnIntra.Size = new System.Drawing.Size(240, 80);
+            this.btnIntra.TabIndex = 6;
+            this.btnIntra.Text = "Intra in aplicatie";
+            this.btnIntra.UseVisualStyleBackColor = false;
+            this.btnIntra.Click += new System.EventHandler(this.btnIntra_Click);
             // 
-            // button3
+            // btnStartCamera
             // 
-            this.button3.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(96, 495);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(160, 44);
-            this.button3.TabIndex = 7;
-            this.button3.Text = "Start camera";
-            this.button3.UseVisualStyleBackColor = false;
+            this.btnStartCamera.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnStartCamera.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnStartCamera.Location = new System.Drawing.Point(96, 495);
+            this.btnStartCamera.Margin = new System.Windows.Forms.Padding(4);
+            this.btnStartCamera.Name = "btnStartCamera";
+            this.btnStartCamera.Size = new System.Drawing.Size(160, 44);
+            this.btnStartCamera.TabIndex = 7;
+            this.btnStartCamera.Text = "Start camera";
+            this.btnStartCamera.UseVisualStyleBackColor = false;
+            this.btnStartCamera.Click += new System.EventHandler(this.btnStartCamera_Click);
             // 
-            // button4
+            // btnDetecteaza
             // 
-            this.button4.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(257, 495);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(160, 44);
-            this.button4.TabIndex = 8;
-            this.button4.Text = "Detecteaza";
-            this.button4.UseVisualStyleBackColor = false;
+            this.btnDetecteaza.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnDetecteaza.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDetecteaza.Location = new System.Drawing.Point(257, 495);
+            this.btnDetecteaza.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDetecteaza.Name = "btnDetecteaza";
+            this.btnDetecteaza.Size = new System.Drawing.Size(160, 44);
+            this.btnDetecteaza.TabIndex = 8;
+            this.btnDetecteaza.Text = "Detecteaza";
+            this.btnDetecteaza.UseVisualStyleBackColor = false;
+            this.btnDetecteaza.Click += new System.EventHandler(this.btnDetecteaza_Click);
             // 
-            // button5
+            // btnSalvare
             // 
-            this.button5.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.button5.Enabled = false;
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(383, 26);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(165, 53);
-            this.button5.TabIndex = 11;
-            this.button5.Text = "Salvare captura";
-            this.button5.UseVisualStyleBackColor = false;
+            this.btnSalvare.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.btnSalvare.Enabled = false;
+            this.btnSalvare.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSalvare.Location = new System.Drawing.Point(383, 26);
+            this.btnSalvare.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSalvare.Name = "btnSalvare";
+            this.btnSalvare.Size = new System.Drawing.Size(165, 53);
+            this.btnSalvare.TabIndex = 11;
+            this.btnSalvare.Text = "Salvare captura";
+            this.btnSalvare.UseVisualStyleBackColor = false;
+            this.btnSalvare.Click += new System.EventHandler(this.btnSalvare_Click);
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.pbCamera);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(51, 218);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(439, 270);
             this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Detecteaza fata";
             // 
+            // pbCamera
+            // 
+            this.pbCamera.Location = new System.Drawing.Point(10, 27);
+            this.pbCamera.Margin = new System.Windows.Forms.Padding(4);
+            this.pbCamera.Name = "pbCamera";
+            this.pbCamera.Size = new System.Drawing.Size(421, 230);
+            this.pbCamera.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbCamera.TabIndex = 1;
+            this.pbCamera.TabStop = false;
+            // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.textBox3);
-            this.groupBox2.Controls.Add(this.pictureBox1);
-            this.groupBox2.Controls.Add(this.button5);
+            this.groupBox2.Controls.Add(this.txtNumeControlor);
+            this.groupBox2.Controls.Add(this.pbCaptura);
+            this.groupBox2.Controls.Add(this.btnSalvare);
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(561, 202);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox2.Size = new System.Drawing.Size(556, 337);
             this.groupBox2.TabIndex = 13;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Adauga fata";
-            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
-            // textBox3
+            // txtNumeControlor
             // 
-            this.textBox3.Location = new System.Drawing.Point(120, 47);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(208, 26);
-            this.textBox3.TabIndex = 15;
+            this.txtNumeControlor.Location = new System.Drawing.Point(78, 43);
+            this.txtNumeControlor.Margin = new System.Windows.Forms.Padding(4);
+            this.txtNumeControlor.Name = "txtNumeControlor";
+            this.txtNumeControlor.Size = new System.Drawing.Size(208, 26);
+            this.txtNumeControlor.TabIndex = 15;
             // 
-            // pictureBox1
+            // pbCaptura
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(9, 86);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(421, 230);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.pbCaptura.Location = new System.Drawing.Point(9, 86);
+            this.pbCaptura.Margin = new System.Windows.Forms.Padding(4);
+            this.pbCaptura.Name = "pbCaptura";
+            this.pbCaptura.Size = new System.Drawing.Size(421, 230);
+            this.pbCaptura.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbCaptura.TabIndex = 0;
+            this.pbCaptura.TabStop = false;
             // 
             // label4
             // 
@@ -221,29 +241,45 @@
             this.label4.TabIndex = 14;
             this.label4.Text = "Nume";
             // 
+            // lblUtilizator
+            // 
+            this.lblUtilizator.AutoSize = true;
+            this.lblUtilizator.Location = new System.Drawing.Point(944, 179);
+            this.lblUtilizator.Name = "lblUtilizator";
+            this.lblUtilizator.Size = new System.Drawing.Size(44, 16);
+            this.lblUtilizator.TabIndex = 14;
+            this.lblUtilizator.Text = "label5";
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1189, 554);
+            this.Controls.Add(this.lblUtilizator);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.btnDetecteaza);
+            this.Controls.Add(this.btnStartCamera);
+            this.Controls.Add(this.btnIntra);
+            this.Controls.Add(this.btnGestioneaza);
+            this.Controls.Add(this.txtParolaAdmin);
+            this.Controls.Add(this.txtEmailAdmin);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Autentificare";
+            this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pbCamera)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbCaptura)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -254,18 +290,21 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.TextBox txtEmailAdmin;
+        private System.Windows.Forms.TextBox txtParolaAdmin;
+        private System.Windows.Forms.Button btnGestioneaza;
+        private System.Windows.Forms.Button btnIntra;
+        private System.Windows.Forms.Button btnStartCamera;
+        private System.Windows.Forms.Button btnDetecteaza;
+        private System.Windows.Forms.Button btnSalvare;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.TextBox txtNumeControlor;
+        private System.Windows.Forms.PictureBox pbCaptura;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.PictureBox pbCamera;
+        private System.Windows.Forms.Label lblUtilizator;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

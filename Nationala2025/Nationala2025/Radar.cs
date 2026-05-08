@@ -142,7 +142,7 @@ namespace Nationala2025
                 oraText += secunde + "";
             textBox2.Text = oraText;
 
-           // adaugareLIsta();
+adaugareLista();
 
         }
 
@@ -206,76 +206,67 @@ namespace Nationala2025
             return "";
         }
 
-
-        void adaugareLIsta()
+        int InSecunde(int h, int m, int s)
         {
-            using(SqlConnection con = new SqlConnection(constr))
+            return h * 3600 + m * 60 + s;
+        }
+
+        void adaugareLista()
+        {
+            int timpCurentSecunde = InSecunde(ora, minute, secunde);
+
+            List<string> avioaneActive = new List<string>();
+
+            using (SqlConnection con = new SqlConnection(constr))
             {
                 con.Open();
-                SqlCommand cmd = new SqlCommand("select timpStart, durata, codDecolare, codAterizare from zboruri where ", con);
-                SqlDataReader rdr= cmd.ExecuteReader();
+                SqlCommand cmd = new SqlCommand("SELECT TimpStart, Durata, CodDecolare, CodAterizare FROM Zboruri", con);
+                SqlDataReader rdr = cmd.ExecuteReader();
+
                 while (rdr.Read())
                 {
-                    string timp = rdr[0].ToString();
-                    int durata = Convert.ToInt32(rdr[1].ToString());
-                    string codDec = Convert.ToString(rdr[2].ToString());
-                    string codAter = Convert.ToString(rdr[3].ToString());
+                    DateTime timpStart = (DateTime)rdr["TimpStart"];
+                    int durata = Convert.ToInt32(rdr["Durata"]);
+                    string codDec = rdr["CodDecolare"].ToString();
+                    string codAter = rdr["CodAterizare"].ToString();
 
-                    string orasDec = transformare(codDec);
-                    string orasAter = transformare(codAter);
+                    // Convertim TimpStart în secunde
+                    int startSecunde = InSecunde(timpStart.Hour, timpStart.Minute, timpStart.Second);
+                    int sfarsitSecunde = startSecunde + durata;
 
-                    int durataMinute = durata / 60;
-
-                    int durataSecunde = durata -  durataMinute * 60;
-
-                    string[] parti = timp.Split(':');
-                    int partiSecunde;
-                    int partiMinute;
-                    int partiOre;
-
-
-                    if (parti[0].StartsWith("0"))
+                    // Verificăm dacă avionul este vizibil la ora curentă
+                    if (timpCurentSecunde >= startSecunde && timpCurentSecunde <= sfarsitSecunde)
                     {
-                        partiOre = int.Parse(parti[0].Substring(1));
+                        string orasDec = transformare(codDec);
+                        string orasAter = transformare(codAter);
+                        // Formatul cerut: CodDecolare - Oras Decolare - OrasAterizare
+                        string infoZbor = $"{codDec} - {orasDec} - {orasAter}";
+                        avioaneActive.Add(infoZbor);
                     }
-                    else
-                    {
-                        partiOre = int.Parse(parti[2]);
-                    }
+                }
+            }
 
-                    if (partiOre != ora)
-                        continue;
+            // 2. Actualizăm ListBox-ul
+            // Ștergem zborurile care nu mai sunt pe radar
+            for (int i = listBox1.Items.Count - 1; i >= 0; i--)
+            {
+                if (!avioaneActive.Contains(listBox1.Items[i].ToString()))
+                {
+                    listBox1.Items.RemoveAt(i);
+                }
+            }
 
-                    if (parti[1].StartsWith("0"))
-                    {
-                        partiMinute = int.Parse(parti[1].Substring(1));
-                    }
-                    else
-                    {
-                        partiMinute = int.Parse(parti[1]);
-                    }
-
-                    if (parti[2].StartsWith("0"))
-                    {
-                        partiSecunde = int.Parse(parti[2].Substring(1));
-                    }
-                    else
-                    {
-                        partiSecunde = int.Parse(parti[2]);
-                    }
-
-                    if (partiSecunde >= secunde && partiMinute >= minute && partiOre >= ora && secunde >= partiSecunde + durataSecunde && minute >= partiMinute + durataMinute) 
-                    {
-                    }
-                    else if (listBox1.Items.Contains(orasDec + "-" + orasDec) && !(partiSecunde >= secunde && partiMinute >= minute && partiOre >= ora && secunde >= partiSecunde + durataSecunde && minute >= partiMinute + durataMinute))
-                    {
-                        listBox1.Items.Remove(orasDec + "-" + orasDec);
-
-                    }
-
-
+            // Adăugăm zborurile noi care au apărut
+            foreach (string zbor in avioaneActive)
+            {
+                if (!listBox1.Items.Contains(zbor))
+                {
+                    listBox1.Items.Add(zbor);
                 }
             }
         }
+
+
+
     }
 }
