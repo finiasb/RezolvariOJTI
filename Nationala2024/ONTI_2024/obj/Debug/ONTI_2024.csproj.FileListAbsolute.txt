@@ -1,0 +1,51 @@
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe.config
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.pdb
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Properties.Resources.resources
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.exe
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.pdb
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Form1.resources
+C:\Users\Fineas\source\repos\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Inregistrare.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.pdb
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Inregistrare.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.exe
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.pdb
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe.config
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.pdb
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.AssemblyReference.cache
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Form1.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Inregistrare.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Properties.Resources.resources
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.GenerateResource.cache
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.exe
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.pdb
+C:\Users\Elev\Source\Repos\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Imagini.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Imagini.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Calendar.resources
+C:\Users\Fineas\source\repos\SUBIECTE ONTI\RezolvariONTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Constelatii.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe.config
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.exe
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\bin\Debug\ONTI_2024.pdb
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Calendar.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Constelatii.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Form1.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Imagini.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Inregistrare.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.Properties.Resources.resources
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.exe
+C:\Users\Fineas\source\repos\SUBIECTE C#\RezolvariOJTI\ONTI_2024\ONTI_2024\obj\Debug\ONTI_2024.pdb
