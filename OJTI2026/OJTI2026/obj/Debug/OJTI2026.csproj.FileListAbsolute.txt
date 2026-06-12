@@ -1,0 +1,11 @@
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\bin\Debug\OJTI2026.exe.config
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\bin\Debug\OJTI2026.exe
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\bin\Debug\OJTI2026.pdb
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.Form1.resources
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.Properties.Resources.resources
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.exe
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.pdb
+C:\Users\Fineas\source\repos\OJTI2026\OJTI2026\obj\Debug\OJTI2026.Spirala.resources
